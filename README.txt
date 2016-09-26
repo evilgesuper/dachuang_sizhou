@@ -18,7 +18,7 @@
                                              
   了解四轴入门网站：http://www.crazepony.com/book/blog/2014-07-31-diy-quadcopter.html
       
-   无人级机论坛：  爱无人机网
+   无人级机论坛：  爱无人机网http://www.loveuav.com/
 
 项目步骤：第一步：自己调一个小四轴飞起来
 
